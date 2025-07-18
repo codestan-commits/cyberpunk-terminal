@@ -1,5 +1,5 @@
 # Random Number Generator Screen
-# Developed by: code commit
+# Developed by: stancodes
 # Date: 18/7/25
 
 import tkinter as tk
